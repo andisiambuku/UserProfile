@@ -4,7 +4,7 @@
             "outputFile": "/home/andisi/AndroidStudioProjects/userprofile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/home/andisi/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/values-da/values-da.xml",
+                    "source": "/home/andisi/.gradle/caches/transforms-3/3dc8d06dfaf105ca2b87959b50364452/transformed/core-1.1.0/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

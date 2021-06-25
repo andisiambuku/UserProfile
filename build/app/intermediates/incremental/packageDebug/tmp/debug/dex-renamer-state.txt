@@ -1,4 +1,4 @@
-#Wed Jun 23 15:11:21 EAT 2021
+#Fri Jun 25 16:56:53 EAT 2021
 base.0=/home/andisi/AndroidStudioProjects/userprofile/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
